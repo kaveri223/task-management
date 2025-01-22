@@ -2,7 +2,7 @@
 
 1) Run npm start
 2) click the link on tarminal.
-3) login page another you can click to signup word
+3) login page either you can click to signup word
 4) signup word click then open signup page and you fill all information.
 5) submit the signup then open login page. fill username and password then login button click.
 6) open the task management page.
